@@ -31,10 +31,10 @@ I’m a Microsoft-certified Power Platform Expert and Tech Lead at Clouds On Mar
 ## Downloads:
 WARNING: Before running the main Sienna installer, dependencies must be installed!
 	
-- [Project Siena](Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos%2FSiena%20builds%2F) (builds sourced from [archive.org](https://archive.org/details/Win8AppxArchive) and stored in the repository):
-  - [1.0.0.133 Beta, 20 Dec 2013](Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos%2FSiena%20builds%2FMicrosoft.MicrosoftProjectSiena_1.0.0.133_neutral__8wekyb3d8bbwe.zip)
-  - [1.5.1411.0, 15 Feb 2025](Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos%2FSiena%20builds%2FMicrosoft.MicrosoftProjectSiena_2015.210.945.5066_neutral_%7E_8wekyb3d8bbwe.zip)
+- [Project Siena](/Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos/Siena%20builds/) (builds sourced from [archive.org](https://archive.org/details/Win8AppxArchive) and stored in the repository):
+  - [1.0.0.133 Beta, 20 Dec 2013](/Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos/Siena%20builds/Microsoft.MicrosoftProjectSiena_1.0.0.133_neutral__8wekyb3d8bbwe.zip)
+  - [1.5.1411.0, 15 Feb 2025](/Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos/Siena%20builds/Microsoft.MicrosoftProjectSiena_2015.210.945.5066_neutral_%7E_8wekyb3d8bbwe.zip)
 
 - Project Siena sample app - Project Siena: NASA Image of the Day by jirrick:
   - [Installer in Microsoft Store](https://apps.microsoft.com/detail/9nblggh10wxq)
-  - [Unpacked source code](Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos%2FSample%20app%20build%20code)
+  - [Unpacked source code](/Power%20Platform%20(r)evolution%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos/Sample%20app%20build%20code)
