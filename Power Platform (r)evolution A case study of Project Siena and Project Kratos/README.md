@@ -23,8 +23,8 @@ I’m a Microsoft-certified Power Platform Expert and Tech Lead at Clouds On Mar
 
 - Project Siena:
 	- Microsoft documentation: https://learn.microsoft.com/en-us/previous-versions/project-siena/
-  - Youtube tutorial for Project Siena - [Tutorial, Build Windows 8 Devices App](https://www.youtube.com/watch?v=OryqA7ztLA8)
-  - Ignite 2015 - Project Siena demo: https://www.youtube.com/watch?v=Cl43VG4C9cw
+	- Youtube tutorial for Project Siena: [Tutorial, Build Windows 8 Devices App](https://www.youtube.com/watch?v=OryqA7ztLA8)
+	- Ignite 2015 - Project Siena demo: https://www.youtube.com/watch?v=Cl43VG4C9cw
 
 
 ## Downloads:
