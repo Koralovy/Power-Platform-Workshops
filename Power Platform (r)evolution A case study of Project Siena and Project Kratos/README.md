@@ -4,7 +4,7 @@ Secondary Title: A Case Study of Project Siena and Project Kratos
 
 Further details available in [Sessionize](https://sessionize.com/s/jan-chlebek/power-platform-revolution-lets-build-a-canvas-app-/129132)
 
-# Meet author - Jan Chlebek
+# Meet the speaker: [Jan Chlebek](https://www.linkedin.com/in/jan-chlebek/)
 I’m a Microsoft-certified Power Platform Expert and Tech Lead at Clouds On Mars. My passion lies in transforming ideas into powerful, efficient solutions that maximize the potential of Microsoft Power Platform. Whether it’s simplifying complex workflows or building hyper-optimized applications, I’m always seeking smarter ways to get things done. I’m also deeply committed to empowering others. Through blogging, running workshops, and sharing resources like my technical interview question sets, I aim to make tech more accessible and help professionals grow. Teaching and mentoring aren’t just things I do - they’re at the heart of what drives me.
 
 ### Featured blog article:
