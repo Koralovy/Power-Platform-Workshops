@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SienaSettings xmlns="Microsoft.Siena">
+  <Application p2:Name="NASA Image of the Day" xmlns:p2="Microsoft.Siena" />
+  <LogoImage p2:Src="images\default_icon.png" xmlns:p2="Microsoft.Siena" />
+  <ImageAttributes p2:BackgroundColor="RGBA(112, 48, 160, 1)" p2:OffsetXSquare="50" p2:OffsetYSquare="50" p2:OffsetXWide="210" p2:OffsetYWide="50" p2:MaxSize="200" xmlns:p2="Microsoft.Siena" />
+  <Telemetry p2:DocumentID="970bbb22-c41d-4521-9664-049efb757435" p2:DocumentVersionID="422506fb-bf50-4f55-a2bf-454835e502ce" p2:ContainsO365Connector="false" xmlns:p2="Microsoft.Siena" />
+  <Version p2:OriginatingVersion="1.105" xmlns:p2="Microsoft.Siena" />
+</SienaSettings>
