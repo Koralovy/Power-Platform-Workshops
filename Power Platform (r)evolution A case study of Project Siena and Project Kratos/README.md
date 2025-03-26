@@ -1,3 +1,5 @@
+# Have you been able to attend this session? [Press here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAM2bATJUM1BDWjdET1dIRDVaWjhXTFNLR0FQQlZJNC4u&rcf69d72589a94e7d907423db642f31dd=%22Power%20Platform%20West%20Poland%20Meetup%20%239%20-%20ONLINE%20-%20Power%20Platform%20(r)evolution%3A%20A%20case%20study%20of%20Project%20Siena%20and%20Project%20Kratos%22) to submit the feedback form! Thank you in advance for sharing your thoughts!
+
 # Session details
 Power Platform (r)evolution: Let's build a Canvas App from the 2010s.
 Secondary Title: A Case Study of Project Siena and Project Kratos
